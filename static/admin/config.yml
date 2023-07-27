@@ -4,9 +4,9 @@ backend:
 media_folder: static/img
 public_folder: /img
 collections:
-  - name: 'blog'
+  - name: 'post'
     label: 'Post'
-    folder: '../../content/posts'
+    folder: '../../../content/posts'
     create: true
     editor:
       preview: true
