@@ -1,8 +1,8 @@
 
-    # Hi Everyone!
+# Hi Everyone!
 
-    lorem ipsum dolor sait
+lorem ipsum dolor sait
 
-    ```py
-    print('Hi World')
-    ```
+ ```py
+print('Hi World')
+ ```
