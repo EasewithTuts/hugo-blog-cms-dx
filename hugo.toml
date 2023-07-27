@@ -9,3 +9,10 @@ theme = 'ewbh'
   alt="Image"
   author="Sai Harsha"
   links=['Posts']
+
+[markup]
+  [markup.highlight]
+    linenos = true
+    noClasses = true
+    style = 'github-dark'
+    lineNumbersInTable = false
