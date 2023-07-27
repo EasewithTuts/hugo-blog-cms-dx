@@ -1,7 +1,7 @@
 baseURL = 'http://sai-harsha.netlify.app/'
 languageCode = 'en-us'
 title = 'Sai Harsha'
-theme = 'ebwh'
+theme = 'ewbh'
 
 [params]
   description = "lorem ipsum"
