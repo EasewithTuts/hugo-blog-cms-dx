@@ -1,0 +1,11 @@
+baseURL = 'http://sai-harsha.netlify.app/'
+languageCode = 'en-us'
+title = 'Sai Harsha'
+theme = 'ebwh'
+
+[params]
+  description = "lorem ipsum"
+  placeholder="https://placehold.co/1280x720"
+  alt="Image"
+  author="Sai Harsha"
+  links=['Posts']

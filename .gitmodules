@@ -1,0 +1,3 @@
+[submodule "themes/ewbh"]
+	path = themes/ewbh
+	url = https://github.com/EasewithTuts/hugo-ebwh.git
