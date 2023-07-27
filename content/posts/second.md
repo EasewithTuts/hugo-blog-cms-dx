@@ -5,6 +5,8 @@ date: 2023-07-27
 draft: false
 ---
 
+
+{{<tag "Git">}}
 Like most newbies, I started out searching StackOverflow for Git commands, then copy-pasting answers, without really understanding what they did.
 
 I remember thinking, “Wouldn’t it be nice if there were a list of the most common Git commands along with an explanation as to why they are useful?”
