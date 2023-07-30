@@ -1,0 +1,32 @@
+{{ define "main" }}
+{{ $words := .Content | countwords }}
+{{ $speed := 200 }}
+{{ $time :=  div $words $speed }}
+
+    <main>
+        <h1 id="main">{{ .Title }}</h1>
+        <span>Posted on {{ .Date.Format "January 2, 2006"}} · {{$time}} min read</span>
+        {{ .Content }}
+    </main>
+
+    <style>
+         pre {
+            padding: 0.5rem;
+            border-radius: .5rem;
+        }
+
+        img {
+            margin-right: auto;
+            margin-left: auto;
+        }
+    </style>
+
+    <script>
+        const code_blocks = document.querySelectorAll('pre')
+        code_blocks.forEach((block) => {
+            block.addEventListener('click' , () => {
+                navigator.clipboard.writeText(block.textContent)
+            })
+        })
+    </script>
+{{ end }}
