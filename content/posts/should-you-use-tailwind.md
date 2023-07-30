@@ -3,6 +3,9 @@ title: 'Should You Use TailwindCSS?'
 date: 2023-07-30
 ---
 
+![Pros and Cons of TailwindCSS](https://github.com/EasewithTuts/hugo-blog-cms-dx/assets/108640614/e2313f38-b5e1-4cb3-9bbb-2f7e871c896b)
+
+
 ## Introduction
 
 In the world of web development, choosing the right CSS framework can be a daunting task. With a myriad of options available, developers often find themselves torn between different tools and methodologies. One such framework that has gained significant popularity in recent years is Tailwind CSS. Tailwind CSS takes a unique approach to building user interfaces, offering utility-first classes for rapid development. In this blog article, we will explore the key features and benefits of Tailwind CSS, discuss its drawbacks, and help you determine whether it's the right choice for your next project.
